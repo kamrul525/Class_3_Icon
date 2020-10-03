@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.icon-area ul{
+    list-style: none;
+}
+
+.icon-area ul li{
+    display: inline-block;
+}
+
+.icon-area ul li a{
+    background: red;
+    color: #fff;
+    padding: 3rem 4rem;
+    text-decoration: none;
+    border-radius: 1rem;
+    font-size: 3rem;
+    margin-left: .5rem;
+    display: block;
+}
+
+.icon-area ul li a:hover{
+    background: hotpink;
+    color: #000;
+    border-radius: 1rem;
+}
+
+
+
+
+
+
